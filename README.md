@@ -21,3 +21,11 @@
 - 김리연
 
 ### 💻 Tech Stack
+- FrontEnd
+html5/css3
+javascript : angularJs&jQuery
+jsp
+- BackEnd
+Java
+Spring 3.0
+Oracle 10g
